@@ -6,3 +6,10 @@ target/
 *.iml
 .vscode/
 .DS_Store
+
+# Slide generator scripts (deck checked in as artifact)
+make_deck.py
+scripts/
+
+# Office temp lock files
+~$*.pptx
